@@ -1,0 +1,3 @@
+- 👋 Hi, I’m MiguelClain
+- 👀 I’m interested in video games programming.
+- 🌱 I’m currently learning bass, guitar, Unity, and other...
